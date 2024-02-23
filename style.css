@@ -1,0 +1,28 @@
+#form{
+    background-color: rgb(252, 249, 246);
+    margin: 0 auto;
+    width: 50%;
+}
+.input{
+    width: 50%;
+    border: solid 1px;
+    border: radius 6px;
+    padding: 15px 13px
+}
+
+button{padding: 15px 13px ;
+    border: none 2px;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 1px;
+    width: 53%;}
+
+    #table, th, td{
+        border: 2px solid black;
+    }
+    #google{
+        color: black;
+    }
+    #facebook{
+        color: black;
+    }
